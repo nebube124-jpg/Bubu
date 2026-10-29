@@ -1,0 +1,9 @@
+{
+  "name": "VidPulse - Monetized Video Social Platform",
+  "description": "Post high-impact short videos, engage with live tips and interactive comments, participate in paid creator bounties, and withdraw real creator earnings.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
